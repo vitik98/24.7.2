@@ -1,5 +1,5 @@
-valid_email = 'emo_0189@mail.ru'
+valid_email = 'vertal98@mail.ru'
 valid_password = '12345'
 
-wrong_email = 'fjio'
+wrong_email = 'ddjf'
 wrong_password = '0000'
